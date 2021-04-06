@@ -17,7 +17,7 @@ body {
 }
 
 .first {
-  padding: 10px 0;
+  padding: 3px ;
   text-align: center;
   font-size: 1.5em;
   font-weight: bolder;
@@ -38,7 +38,9 @@ body {
 
 .introduction-section,
 .location-section,
-.questions-section {
+.questions-section,
+.education-section,
+.experience-section {
     max-width: 38em;
     margin-left: auto;
     margin-right: auto;
@@ -55,6 +57,30 @@ body {
     color:#2F4F4F;
 }
 
+
+
+.education-section > ul {
+    font-weight: 300;
+    letter-spacing: 0.05em;
+    color:#2F4F4F;
+    line-height: 25px;
+    max-width: 38em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em; 
+}
+
+
+.experience-section > ul {
+    font-weight: 300;
+    letter-spacing: 0.05em;
+    color:#2F4F4F;
+    line-height: 25px; 
+    max-width: 38em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+}
 .questions-section > h2 {
     font-family: "Gentium Book Basic", Georgia, serif;
     font-size: 1.2em;
@@ -101,3 +127,10 @@ section > h1 {
       color: #F1C863;
   }
   
+
+
+  ol {
+    letter-spacing: 0.06em;
+    line-height: 25px;  
+  }
+
