@@ -128,10 +128,10 @@ for (let i = 0; i <= 3; i++) {
 }
 
 }
-//num();
+num();
 
 
-/*function days(){
+function days(){
 let q7 = prompt(' can you guess my favourite day? ')
 
 let day = ['saturday', 'sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday'];
@@ -152,7 +152,7 @@ for (let i = 0; i <= 5; i++) {
     }
 }
 }
-days();*/
+days();
 
 
 
