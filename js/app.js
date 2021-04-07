@@ -79,7 +79,7 @@ favMovies();
 
 
 
-/*function phone(){
+function phone(){
 let q5 = prompt(' Do i prefer phone calls? ');
 q5 = q5.toLocaleLowerCase();
 if (q5 === 'yes' || q5 === 'y') {
@@ -94,7 +94,7 @@ if (q5 === 'yes' || q5 === 'y') {
     alert(' Please answer with yes or no! ');
 }
 }
-phone();*/
+phone();
 
 /*function num(){
 let q6 = prompt(' please choose a number from 0-10');
