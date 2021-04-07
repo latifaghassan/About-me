@@ -42,7 +42,7 @@ if (q2 === 'yes' || q2 === 'y') {
 
 favFood();
 
-/*function favSeasson(){
+function favSeasson(){
 let q3 = prompt(' Do i like summer season?');
 q3 = q3.toLocaleLowerCase();
 if (q3 === 'yes' || q3 === 'y') {
@@ -58,7 +58,7 @@ if (q3 === 'yes' || q3 === 'y') {
 }
 }
 
-favSeasson();*/
+favSeasson();
 
 /*function favMovies(){
 let q4 = prompt('Do i like watching horror movies?  ');
