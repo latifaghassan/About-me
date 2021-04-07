@@ -96,7 +96,7 @@ if (q5 === 'yes' || q5 === 'y') {
 }
 phone();
 
-/*function num(){
+function num(){
 let q6 = prompt(' please choose a number from 0-10');
 q6 = parseInt(q6);
 console.log(typeof q6);
@@ -127,7 +127,7 @@ for (let i = 0; i <= 3; i++) {
 
 }
 
-}*/
+}
 //num();
 
 
