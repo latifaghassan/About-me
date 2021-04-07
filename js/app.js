@@ -127,6 +127,3 @@ alert(' The correct answer is : ' + day[0] + ' and ' + day[6])
 alert('your final score is: ' + score + ' out 7');
 
 alert("Nice to met you ( " + UserName + " ) feel free to discover my page ")
-
-
-
