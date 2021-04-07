@@ -60,7 +60,7 @@ if (q3 === 'yes' || q3 === 'y') {
 
 favSeasson();
 
-/*function favMovies(){
+function favMovies(){
 let q4 = prompt('Do i like watching horror movies?  ');
 q4 = q4.toLocaleLowerCase();
 if (q4 === 'yes' || q4 === 'y') {
@@ -75,7 +75,7 @@ if (q4 === 'yes' || q4 === 'y') {
     alert(' Please answer with yes or no! ');
 }
 }
-favMovies();*/
+favMovies();
 
 
 
